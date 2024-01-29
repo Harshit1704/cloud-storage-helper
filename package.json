@@ -1,6 +1,6 @@
 {
     "name": "cloud-storage-helper",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "upload and download operations on Azure Storage and AWS S3",
     "main": "index.js",
     "scripts": {

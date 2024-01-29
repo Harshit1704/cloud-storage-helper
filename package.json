@@ -6,8 +6,12 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Harshit1704/cloud-storage-helper"
+    },
     "dependencies": {
-      "cloud-storage-helper": "file:/home/harshit/idp/01_Software/Backend/cloud-storage-helper"
+      "cloud-storage-helper": "1.0.0"
     }
   }
   

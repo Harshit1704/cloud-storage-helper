@@ -1,0 +1,13 @@
+{
+    "name": "cloud-storage-helper",
+    "version": "1.0.0",
+    "description": "upload and download operations on Azure Storage and AWS S3",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "cloud-storage-helper": "file:/home/harshit/idp/01_Software/Backend/cloud-storage-helper"
+    }
+  }
+  

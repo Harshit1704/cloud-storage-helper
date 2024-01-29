@@ -2,6 +2,14 @@
 
 A Node.js library for easy file upload and download operations on cloud storage services like Azure Storage and AWS S3.
 
+## Installation
+
+To install the package, use the following npm command:
+
+```bash
+npm install cloud-storage-helper
+```
+
 ## Usage
 Use the following code snippets to integrate the `cloud-storage-helper` into your Node.js project:
 
@@ -72,3 +80,10 @@ Downloads a file from the specified container/bucket and blob/object in the clou
     2. Returns:
         A Promise that resolves with the local file path on successful download.
 
+## Documentation
+
+For detailed documentation and examples, refer to the <a href = "https://www.npmjs.com/package/cloud-storage-helper">official documentation</a>.
+
+## License
+
+This project is licensed under the MIT License - see the <a href = "https://github.com/Harshit1704/cloud-storage-helper/blob/main/LICENSE">LICENSE</a> file for details.

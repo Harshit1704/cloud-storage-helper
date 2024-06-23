@@ -1,6 +1,6 @@
 # Cloud Storage Helper
 
-A Node.js library for easy file upload and download operations on cloud storage services like Azure Storage and AWS S3.
+A Node.js library for easy file upload and download operations on cloud storage services like Azure Storage and AWS S3. 
 
 ## Installation
 

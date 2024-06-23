@@ -1,17 +1,16 @@
 {
     "name": "cloud-storage-helper",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "upload and download operations on Azure Storage and AWS S3",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/Harshit1704/cloud-storage-helper"
+        "type": "git",
+        "url": "https://github.com/Harshit1704/cloud-storage-helper"
     },
     "dependencies": {
-      "cloud-storage-helper": "1.0.0"
+        "azure-storage": "^2.10.7"
     }
-  }
-  
+}
